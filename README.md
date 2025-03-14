@@ -19,8 +19,6 @@ This project is a **Job Management Admin Interface** that allows administrators 
 ---
 
 
----
-
 ## 🚀 Installation & Setup
 
 ### **Prerequisites** 📋
