@@ -38,7 +38,7 @@ npm install
 # Configure environment variables:
 touch .env.local
 # Add the following in .env.local:
-NEXT_PUBLIC_API_URL=http://localhost:8000
+NEXT_PUBLIC_API_URL=http://localhost:3000
 
 # Run the frontend server:
 npm run dev
